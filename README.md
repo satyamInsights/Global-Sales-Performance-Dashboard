@@ -43,7 +43,7 @@ The dashboard enables users to explore sales performance, analyze customer behav
 
 ## 🏠 Dashboard Home
 
-<img src="images/A.png.png" width="100%">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/sales-insights-dashboard/main/images/A.png.png" width="100%">
 
 ---
 
