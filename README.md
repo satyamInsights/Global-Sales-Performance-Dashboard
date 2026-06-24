@@ -42,7 +42,7 @@ The dashboard enables users to explore sales performance, analyze customer behav
 # 📸 Dashboard Preview
 
 <p align="center">
-  <img src="images/A.png.png" width="100%">
+  <img src = "A.png.png" alt = "dashboard.png">
 </p>
 
 <p align="center">
