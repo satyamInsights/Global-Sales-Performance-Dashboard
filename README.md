@@ -46,31 +46,31 @@ The dashboard enables users to explore sales performance, analyze customer behav
 </p>
 
 <p align="center">
-  <img src="images/B.png.png" width="100%">
+  <img src="B.png.png" alt = "dashboard.png">
 </p>
 
 <p align="center">
-  <img src="images/C.png.png" width="100%">
+  <img src="C.png.png" alt = "dashboard.png">
 </p>
 
 <p align="center">
-  <img src="images/D.png.png" width="100%">
+  <img src="D.png.png" alt = "dashboard.png%">
 </p>
 
 <p align="center">
-  <img src="images/E.png.png" width="100%">
+  <img src="E.png.png" width="100%">
 </p>
 
 <p align="center">
-  <img src="images/F.png.png" width="100%">
+  <img src="F.png.png" width="100%">
 </p>
 
 <p align="center">
-  <img src="images/G.png.png" width="100%">
+  <img src="G.png.png" width="100%">
 </p>
 
 <p align="center">
-  <img src="images/H.png.png" width="100%">
+  <img src="H.png.png" width="100%">
 </p>
 
 
