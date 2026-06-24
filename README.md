@@ -37,57 +37,42 @@ The dashboard enables users to explore sales performance, analyze customer behav
 
 ✔ Build an Interactive Dashboard Experience
 
----
+
 
 # 📸 Dashboard Preview
 
-## 🏠 Dashboard Home
+<p align="center">
+  <img src="images/A.png.png" width="100%">
+</p>
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/sales-insights-dashboard/main/images/A.png.png" width="100%">
+<p align="center">
+  <img src="images/B.png.png" width="100%">
+</p>
 
----
+<p align="center">
+  <img src="images/C.png.png" width="100%">
+</p>
 
-## 📌 KPI Overview
+<p align="center">
+  <img src="images/D.png.png" width="100%">
+</p>
 
-<img src="images/B.png.png" width="100%">
+<p align="center">
+  <img src="images/E.png.png" width="100%">
+</p>
 
----
+<p align="center">
+  <img src="images/F.png.png" width="100%">
+</p>
 
-## 💰 Revenue by Product Category
+<p align="center">
+  <img src="images/G.png.png" width="100%">
+</p>
 
-<img src="images/C.png.png" width="100%">
+<p align="center">
+  <img src="images/H.png.png" width="100%">
+</p>
 
----
-
-## 🌍 Profit Analysis by Country
-
-<img src="images/D.png.png" width="100%">
-
----
-
-## 📈 Revenue Trend Analysis
-
-<img src="images/E.png.png" width="100%">
-
----
-
-## 👨‍🦱 Customer Gender Analysis
-
-<img src="images/F.png.png" width="100%">
-
----
-
-## 🎯 Age Group Analysis
-
-<img src="images/G.png.png" width="100%">
-
----
-
-## 🏆 Top Products Analysis
-
-<img src="images/H.png.png" width="100%">
-
----
 
 # ✨ Key Features
 
