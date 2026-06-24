@@ -1,57 +1,132 @@
 # 📊 Sales Insights Dashboard
 
-An interactive Sales Analysis Dashboard built using **Streamlit, Pandas, and Plotly**. This dashboard transforms raw sales data into meaningful business insights through interactive visualizations and KPI tracking.
+An interactive and dynamic Sales Analytics Dashboard built using **Streamlit, Pandas, and Plotly**. This project transforms raw sales data into actionable business insights through interactive visualizations, KPI tracking, and filtering capabilities.
 
-## 🚀 Features
+---
 
-* 📈 Revenue Analysis
-* 💰 Profit Analysis
-* 📦 Product Category Insights
-* 🌍 Country-wise Performance
-* 👨‍🦱 Customer Gender Analysis
-* 🎯 Age Group Analysis
-* 🏆 Top 10 Products by Revenue
-* 📊 Interactive Filters
-* ⬇ Download Filtered Data
+## 🚀 Project Overview
 
-## 🛠 Technologies Used
+This dashboard helps businesses analyze sales performance, customer behavior, product trends, and profitability using an easy-to-use interactive interface.
 
-* Python
-* Streamlit
-* Pandas
-* Plotly
+### Key Objectives
 
-## 📂 Dataset Information
+* Analyze Revenue, Profit, and Cost
+* Track Sales Performance
+* Understand Customer Demographics
+* Identify Top Performing Products
+* Support Data-Driven Decision Making
 
-The dataset contains sales transaction records including:
+---
 
-* Revenue
-* Profit
-* Cost
-* Product Category
-* Customer Gender
-* Country
-* Age Group
-* Year
-* Product Details
+## 🖼️ Dashboard Preview
 
-## 📸 Dashboard Components
+### 🏠 Home Dashboard
 
-### KPI Cards
+<img src="images/A.png" width="100%">
+
+### 📌 KPI Overview
+
+<img src="images/B.png" width="100%">
+
+### 💰 Revenue by Product Category
+
+<img src="images/C.png" width="100%">
+
+### 🌍 Profit Analysis by Country
+
+<img src="images/D.png" width="100%">
+
+### 📈 Revenue Trend Analysis
+
+<img src="images/E.png" width="100%">
+
+### 👨‍🦱 Customer Gender Analysis
+
+<img src="images/F.png" width="100%">
+
+### 🎯 Age Group Analysis
+
+<img src="images/G.png" width="100%">
+
+### 🏆 Top Products Analysis
+
+<img src="images/H.png" width="100%">
+
+---
+
+## ✨ Features
+
+✅ Interactive Dashboard
+
+✅ Dynamic Filters
+
+✅ Revenue Analysis
+
+✅ Profit Analysis
+
+✅ Customer Segmentation
+
+✅ Product Performance Tracking
+
+✅ Download Filtered Data
+
+✅ Interactive Plotly Charts
+
+---
+
+## 📊 KPIs Included
 
 * Total Revenue
 * Total Profit
 * Total Cost
 * Total Orders
 
-### Visualizations
+---
+
+## 📈 Visualizations
 
 * Revenue by Product Category
 * Profit Distribution by Country
 * Revenue Trend by Year
 * Revenue by Gender
 * Revenue by Age Group
-* Top Products Analysis
+* Top 10 Products by Revenue
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose                    |
+| ---------- | -------------------------- |
+| Python     | Programming Language       |
+| Streamlit  | Dashboard Development      |
+| Pandas     | Data Processing            |
+| Plotly     | Interactive Visualizations |
+
+---
+
+## 📂 Project Structure
+
+```text
+Sales-Insights-Dashboard/
+│
+├── app.py
+├── Sales.csv
+├── requirements.txt
+├── README.md
+│
+└── images/
+    ├── A.png
+    ├── B.png
+    ├── C.png
+    ├── D.png
+    ├── E.png
+    ├── F.png
+    ├── G.png
+    └── H.png
+```
+
+---
 
 ## ⚙️ Installation
 
@@ -75,8 +150,6 @@ python -m venv venv
 
 Activate the virtual environment:
 
-Windows:
-
 ```bash
 venv\Scripts\activate
 ```
@@ -93,30 +166,44 @@ Run the application:
 python -m streamlit run app.py
 ```
 
-## 📈 Business Insights
+---
 
-This dashboard helps businesses:
+## 📋 Dataset Information
 
-* Track revenue and profit performance
-* Identify high-performing product categories
-* Analyze customer demographics
-* Monitor sales trends over time
-* Support data-driven decision-making
+The dataset includes:
+
+* Revenue
+* Profit
+* Cost
+* Product Category
+* Product Details
+* Customer Gender
+* Country
+* Age Group
+* Order Quantity
+* Year
+
+---
+
+## 🎯 Business Insights Generated
+
+* High Revenue Product Categories
+* Most Profitable Regions
+* Customer Demographic Trends
+* Sales Performance Tracking
+* Product Revenue Contribution
+
+---
 
 ## 👨‍💻 Author
 
-Satyam Sharma
+**Satyam Sharma**
 
-B.Tech (AI & Data Science)
+B.Tech – AI & Data Science
 
-Passionate about Data Analytics, Business Intelligence, and Machine Learning.
+Aspiring Data Analyst | Data Visualization Enthusiast | Business Intelligence Learner
 
-## ⭐ Project Objective
+---
 
-The objective of this project is to demonstrate practical skills in:
+⭐ If you found this project useful, consider giving it a star.
 
-* Data Analysis
-* Data Visualization
-* Dashboard Development
-* Business Intelligence
-* Interactive Reporting using Streamlit
