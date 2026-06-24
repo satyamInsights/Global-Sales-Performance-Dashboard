@@ -1,4 +1,4 @@
-# 📊 Sales Insights Dashboard
+# 📊 Global- Sales- Performance Dashboard
 
 <div align="center">
 
@@ -40,7 +40,7 @@ The dashboard enables users to explore sales performance, analyze customer behav
 
 
 # 📸 Dashboard Preview
-
+<h1>Dashboard<h1>
 <p align="center">
   <img src = "A.png.png" alt = "dashboard.png">
 </p>
