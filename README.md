@@ -1,111 +1,138 @@
 # 📊 Sales Insights Dashboard
 
-An interactive and dynamic Sales Analytics Dashboard built using **Streamlit, Pandas, and Plotly**. This project transforms raw sales data into actionable business insights through interactive visualizations, KPI tracking, and filtering capabilities.
+<div align="center">
+
+### 🚀 Interactive Sales Analytics Dashboard using Streamlit
+
+Transforming Raw Sales Data into Actionable Business Insights
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Plotly](https://img.shields.io/badge/Plotly-Visualization-purple)
+
+</div>
 
 ---
 
-## 🚀 Project Overview
+## 📌 Project Overview
 
-This dashboard helps businesses analyze sales performance, customer behavior, product trends, and profitability using an easy-to-use interactive interface.
+The **Sales Insights Dashboard** is an interactive Business Intelligence solution developed using **Streamlit, Pandas, and Plotly**.
 
-### Key Objectives
-
-* Analyze Revenue, Profit, and Cost
-* Track Sales Performance
-* Understand Customer Demographics
-* Identify Top Performing Products
-* Support Data-Driven Decision Making
+The dashboard enables users to explore sales performance, analyze customer behavior, monitor profitability, and identify business trends through dynamic visualizations and KPI tracking.
 
 ---
 
-## 🖼️ Dashboard Preview
+## 🎯 Project Objectives
 
-### 🏠 Home Dashboard
+✔ Analyze Revenue, Profit, and Cost
 
-<img src="images/A.png" width="100%">
+✔ Understand Customer Demographics
 
-### 📌 KPI Overview
+✔ Track Product Performance
 
-<img src="images/B.png" width="100%">
+✔ Generate Business Insights
 
-### 💰 Revenue by Product Category
+✔ Enable Data-Driven Decision Making
 
-<img src="images/C.png" width="100%">
-
-### 🌍 Profit Analysis by Country
-
-<img src="images/D.png" width="100%">
-
-### 📈 Revenue Trend Analysis
-
-<img src="images/E.png" width="100%">
-
-### 👨‍🦱 Customer Gender Analysis
-
-<img src="images/F.png" width="100%">
-
-### 🎯 Age Group Analysis
-
-<img src="images/G.png" width="100%">
-
-### 🏆 Top Products Analysis
-
-<img src="images/H.png" width="100%">
+✔ Build an Interactive Dashboard Experience
 
 ---
 
-## ✨ Features
+# 📸 Dashboard Preview
 
-✅ Interactive Dashboard
+## 🏠 Dashboard Home
 
-✅ Dynamic Filters
-
-✅ Revenue Analysis
-
-✅ Profit Analysis
-
-✅ Customer Segmentation
-
-✅ Product Performance Tracking
-
-✅ Download Filtered Data
-
-✅ Interactive Plotly Charts
+<img src="images/A.png.png" width="100%">
 
 ---
 
-## 📊 KPIs Included
+## 📌 KPI Overview
+
+<img src="images/B.png.png" width="100%">
+
+---
+
+## 💰 Revenue by Product Category
+
+<img src="images/C.png.png" width="100%">
+
+---
+
+## 🌍 Profit Analysis by Country
+
+<img src="images/D.png.png" width="100%">
+
+---
+
+## 📈 Revenue Trend Analysis
+
+<img src="images/E.png.png" width="100%">
+
+---
+
+## 👨‍🦱 Customer Gender Analysis
+
+<img src="images/F.png.png" width="100%">
+
+---
+
+## 🎯 Age Group Analysis
+
+<img src="images/G.png.png" width="100%">
+
+---
+
+## 🏆 Top Products Analysis
+
+<img src="images/H.png.png" width="100%">
+
+---
+
+# ✨ Key Features
+
+### 📊 Business KPIs
 
 * Total Revenue
 * Total Profit
 * Total Cost
 * Total Orders
 
----
+### 🔍 Interactive Filters
 
-## 📈 Visualizations
+* Country Filter
+* Gender Filter
+* Year Filter
 
-* Revenue by Product Category
-* Profit Distribution by Country
-* Revenue Trend by Year
-* Revenue by Gender
-* Revenue by Age Group
-* Top 10 Products by Revenue
+### 📈 Interactive Visualizations
 
----
+* Revenue Analysis
+* Profit Analysis
+* Product Category Insights
+* Customer Demographics
+* Trend Analysis
+* Product Performance Analysis
 
-## 🛠️ Tech Stack
+### ⬇ Export Functionality
 
-| Technology | Purpose                    |
-| ---------- | -------------------------- |
-| Python     | Programming Language       |
-| Streamlit  | Dashboard Development      |
-| Pandas     | Data Processing            |
-| Plotly     | Interactive Visualizations |
+* Download Filtered Data
+* CSV Export Support
 
 ---
 
-## 📂 Project Structure
+# 🛠️ Technology Stack
+
+| Technology  | Purpose                   |
+| ----------- | ------------------------- |
+| Python      | Core Programming          |
+| Streamlit   | Dashboard Development     |
+| Pandas      | Data Analysis             |
+| Plotly      | Interactive Visualization |
+| CSV Dataset | Data Source               |
+
+---
+
+# 📂 Project Structure
 
 ```text
 Sales-Insights-Dashboard/
@@ -116,51 +143,51 @@ Sales-Insights-Dashboard/
 ├── README.md
 │
 └── images/
-    ├── A.png
-    ├── B.png
-    ├── C.png
-    ├── D.png
-    ├── E.png
-    ├── F.png
-    ├── G.png
-    └── H.png
+    ├── A.png.png
+    ├── B.png.png
+    ├── C.png.png
+    ├── D.png.png
+    ├── E.png.png
+    ├── F.png.png
+    ├── G.png.png
+    └── H.png.png
 ```
 
 ---
 
-## ⚙️ Installation
+# ⚙️ Installation Guide
 
-Clone the repository:
+### Clone Repository
 
 ```bash
 git clone https://github.com/your-username/sales-insights-dashboard.git
 ```
 
-Navigate to the project folder:
+### Navigate to Project
 
 ```bash
 cd sales-insights-dashboard
 ```
 
-Create a virtual environment:
+### Create Virtual Environment
 
 ```bash
 python -m venv venv
 ```
 
-Activate the virtual environment:
+### Activate Environment
 
 ```bash
 venv\Scripts\activate
 ```
 
-Install dependencies:
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the application:
+### Run Dashboard
 
 ```bash
 python -m streamlit run app.py
@@ -168,42 +195,76 @@ python -m streamlit run app.py
 
 ---
 
-## 📋 Dataset Information
+# 📊 Dataset Attributes
 
-The dataset includes:
+The dataset contains:
 
 * Revenue
 * Profit
 * Cost
 * Product Category
-* Product Details
-* Customer Gender
+* Product
 * Country
+* Customer Gender
 * Age Group
 * Order Quantity
-* Year
+* Sales Year
 
 ---
 
-## 🎯 Business Insights Generated
+# 📈 Business Insights Generated
 
-* High Revenue Product Categories
-* Most Profitable Regions
-* Customer Demographic Trends
-* Sales Performance Tracking
-* Product Revenue Contribution
+### Revenue Analysis
+
+Identify top-performing categories and products.
+
+### Profitability Tracking
+
+Monitor business profit across different regions.
+
+### Customer Segmentation
+
+Analyze purchasing patterns based on demographics.
+
+### Trend Analysis
+
+Track yearly sales performance and growth.
+
+### Product Performance
+
+Discover best-selling products and revenue contributors.
 
 ---
 
-## 👨‍💻 Author
+# 🎓 Skills Demonstrated
 
-**Satyam Sharma**
-
-B.Tech – AI & Data Science
-
-Aspiring Data Analyst | Data Visualization Enthusiast | Business Intelligence Learner
+* Data Analysis
+* Business Intelligence
+* Dashboard Development
+* Data Visualization
+* KPI Reporting
+* Interactive Reporting
+* Python Programming
+* Streamlit Development
 
 ---
 
-⭐ If you found this project useful, consider giving it a star.
+# 👨‍💻 Author
 
+## Satyam Sharma
+
+🎓 B.Tech – AI & Data Science
+
+📊 Aspiring Data Analyst
+
+📈 Business Intelligence Enthusiast
+
+🤖 Machine Learning Learner
+
+---
+
+<div align="center">
+
+### ⭐ If you found this project useful, please consider giving it a star.
+
+</div>
